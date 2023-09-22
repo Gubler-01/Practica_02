@@ -1,0 +1,45 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\guble\Documents\L-Interfaz\Practica_02\Practica_02\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\guble\Documents\L-Interfaz\Practica_02\Practica_02\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Users\guble\Documents\L-Interfaz\Practica_02\Practica_02\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\guble\Documents\L-Interfaz\Practica_02\Practica_02\Debug\Practica_02.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Practica_02.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Practica_02.map</FILE>
+  <FILE>Practica_02.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INICIO><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_02\Practica_02\main.asm</FILE><LINE>5</LINE></INICIO>
+  <ciclo><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_02\Practica_02\main.asm</FILE><LINE>21</LINE></ciclo>
+  <pinBajo><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_02\Practica_02\main.asm</FILE><LINE>27</LINE></pinBajo>
+  <pinAlto><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_02\Practica_02\main.asm</FILE><LINE>178</LINE></pinAlto>
+  <nextBCD><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_02\Practica_02\main.asm</FILE><LINE>35</LINE></nextBCD>
+  <uno><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_02\Practica_02\main.asm</FILE><LINE>51</LINE></uno>
+  <cero><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_02\Practica_02\main.asm</FILE><LINE>41</LINE></cero>
+  <condicion><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_02\Practica_02\main.asm</FILE><LINE>165</LINE></condicion>
+  <dos><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_02\Practica_02\main.asm</FILE><LINE>64</LINE></dos>
+  <tres><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_02\Practica_02\main.asm</FILE><LINE>77</LINE></tres>
+  <cuatro><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_02\Practica_02\main.asm</FILE><LINE>90</LINE></cuatro>
+  <cinco><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_02\Practica_02\main.asm</FILE><LINE>103</LINE></cinco>
+  <seis><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_02\Practica_02\main.asm</FILE><LINE>116</LINE></seis>
+  <siete><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_02\Practica_02\main.asm</FILE><LINE>129</LINE></siete>
+  <ocho><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_02\Practica_02\main.asm</FILE><LINE>142</LINE></ocho>
+  <nueve><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_02\Practica_02\main.asm</FILE><LINE>155</LINE></nueve>
+  <Retraso05><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_02\Practica_02\main.asm</FILE><LINE>196</LINE></Retraso05>
+  <exter_Reta><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_02\Practica_02\main.asm</FILE><LINE>199</LINE></exter_Reta>
+  <retar_ciclo><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_02\Practica_02\main.asm</FILE><LINE>203</LINE></retar_ciclo>
+ </LABELS>
+</ASSEMBLER_INFO>
